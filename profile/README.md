@@ -10,7 +10,7 @@ antonz@uchicago.edu
 
 # Principal Investigator 
 [Denis Mogilenko](https://scholar.google.com/citations?user=Xy8_W-MAAAAJ&hl=&inst=5778974199078678248), PhD  
-Assistant Professor of Medicine, The Ben May Cancer Research Department, UChicago
+Assistant Professor, Ben May Department for Cancer Research, University of Chicago
 mogilenko@uchicago.edu
 
 
